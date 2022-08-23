@@ -1,6 +1,6 @@
 [![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Sunayana-Patel117</h1>
+<h1 align="center">Hi 👋, I'm Sunayana Patel</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" />
